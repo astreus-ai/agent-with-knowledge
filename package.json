@@ -19,7 +19,7 @@
     "astreus"
   ],
   "dependencies": {
-    "@astreus-ai/astreus": "^0.5.21",
+    "@astreus-ai/astreus": "^0.5.24",
     "dotenv": "^17.2.1"
   },
   "devDependencies": {
